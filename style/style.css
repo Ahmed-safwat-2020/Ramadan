@@ -122,10 +122,10 @@ input , select{
 @media (min-width : 480px) {}
 @media (min-width : 768px) {}
 @media (min-width : 992px) {
-
+/* 
   #idCanvas , #idCanvas2{
     width: 40%;
-  }
+  } */
   .down{
     width: 290px;
   font-size: 19px;
